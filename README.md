@@ -1,2 +1,5 @@
-# Diabetes-Prediction
-This repository contains the code and resources for a diabetes prediction project. The goal of this project is to develop a predictive model that can accurately identify individuals at risk of developing diabetes based on their health metrics.
+#Diabetes Prediction Project
+Welcome to the Diabetes Prediction Project! This repository contains the code and resources for building a machine learning model to predict the likelihood of diabetes in individuals based on various health metrics.
+
+#Project Overview
+The aim of this project is to create a predictive model that can help identify individuals at risk of developing diabetes. By analyzing a dataset containing key health indicators such as age, BMI, glucose levels, and insulin levels, we can build a model that offers valuable insights for early intervention.
